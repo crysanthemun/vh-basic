@@ -1,0 +1,29 @@
+body {
+  height: 300vh;
+}
+.con {
+  max-width: 800px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+section > a {
+  border: 3px solid palevioletred;
+  width: 150px;
+  text-align: center;
+}
+div {
+  height: calc(100vh - 28px);
+  margin-top: 28px;
+  scroll-margin-top: 28px;
+}
+#pos1 {
+  background-color: skyblue;
+}
+#pos2 {
+  background-color: darkcyan;
+}
+#pos3 {
+  background-color: green;
+}
